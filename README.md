@@ -1,2 +1,5 @@
-# Estudos-
-O que estou estudando no dia a dia 
+## Estudos 
+
+Neste arquivo estou detalhando o resumo dos meus estudos 
+
+- Lógica de programação 
